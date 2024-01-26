@@ -1,0 +1,80 @@
+[
+  {
+    "name": "order",
+    "path": "/order",
+    "component": "D:\\\\vscode_projects\\\\yygh_front_dev\\\\yygh-site\\\\pages\\\\order\\\\index.vue",
+    "chunkName": "pages/order/index"
+  },
+  {
+    "name": "patient",
+    "path": "/patient",
+    "component": "D:\\\\vscode_projects\\\\yygh_front_dev\\\\yygh-site\\\\pages\\\\patient\\\\index.vue",
+    "chunkName": "pages/patient/index"
+  },
+  {
+    "name": "user",
+    "path": "/user",
+    "component": "D:\\\\vscode_projects\\\\yygh_front_dev\\\\yygh-site\\\\pages\\\\user\\\\index.vue",
+    "chunkName": "pages/user/index"
+  },
+  {
+    "name": "hospital-booking",
+    "path": "/hospital/booking",
+    "component": "D:\\\\vscode_projects\\\\yygh_front_dev\\\\yygh-site\\\\pages\\\\hospital\\\\booking.vue",
+    "chunkName": "pages/hospital/booking"
+  },
+  {
+    "name": "hospital-schedule",
+    "path": "/hospital/schedule",
+    "component": "D:\\\\vscode_projects\\\\yygh_front_dev\\\\yygh-site\\\\pages\\\\hospital\\\\schedule.vue",
+    "chunkName": "pages/hospital/schedule"
+  },
+  {
+    "name": "order-show",
+    "path": "/order/show",
+    "component": "D:\\\\vscode_projects\\\\yygh_front_dev\\\\yygh-site\\\\pages\\\\order\\\\show.vue",
+    "chunkName": "pages/order/show"
+  },
+  {
+    "name": "patient-add",
+    "path": "/patient/add",
+    "component": "D:\\\\vscode_projects\\\\yygh_front_dev\\\\yygh-site\\\\pages\\\\patient\\\\add.vue",
+    "chunkName": "pages/patient/add"
+  },
+  {
+    "name": "patient-show",
+    "path": "/patient/show",
+    "component": "D:\\\\vscode_projects\\\\yygh_front_dev\\\\yygh-site\\\\pages\\\\patient\\\\show.vue",
+    "chunkName": "pages/patient/show"
+  },
+  {
+    "name": "weixin-callback",
+    "path": "/weixin/callback",
+    "component": "D:\\\\vscode_projects\\\\yygh_front_dev\\\\yygh-site\\\\pages\\\\weixin\\\\callback.vue",
+    "chunkName": "pages/weixin/callback"
+  },
+  {
+    "name": "hospital-detail-hoscode",
+    "path": "/hospital/detail/:hoscode?",
+    "component": "D:\\\\vscode_projects\\\\yygh_front_dev\\\\yygh-site\\\\pages\\\\hospital\\\\detail\\\\_hoscode.vue",
+    "chunkName": "pages/hospital/detail/_hoscode"
+  },
+  {
+    "name": "hospital-notice-hoscode",
+    "path": "/hospital/notice/:hoscode?",
+    "component": "D:\\\\vscode_projects\\\\yygh_front_dev\\\\yygh-site\\\\pages\\\\hospital\\\\notice\\\\_hoscode.vue",
+    "chunkName": "pages/hospital/notice/_hoscode"
+  },
+  {
+    "name": "hospital-hoscode",
+    "path": "/hospital/:hoscode?",
+    "component": "D:\\\\vscode_projects\\\\yygh_front_dev\\\\yygh-site\\\\pages\\\\hospital\\\\_hoscode.vue",
+    "chunkName": "pages/hospital/_hoscode"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "D:\\\\vscode_projects\\\\yygh_front_dev\\\\yygh-site\\\\pages\\\\index.vue",
+    "chunkName": "pages/index"
+  }
+]
